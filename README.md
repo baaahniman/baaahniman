@@ -50,18 +50,17 @@
     <br>
     <p class="word-break">Learning web development, cloud computing, software engineering, machine learnig and artificial intelligence.</p>
   </div>
-    <div class="inline-block">
+  <div class="inline-block">
     <img src="https://img.icons8.com/color/96/000000/tennis-player-skin-type-3.png"/>
     <p class="word-break">I am an ITF registered Tennis player. Also hoping to play Division 1 tennis at Georgia State</p>
   </div>
   <div class="inline-block">
     <img src="https://img.icons8.com/color/96/000000/rock-music.png"/>
-
     <p class="word-break">I am also a Trinity College London and ABRSM boards certified Piano and Guitar player.</p>
   </div>
   <div class="inline-block">
     <img src="https://img.icons8.com/color/80/000000/music--v2.png"/>
-    <p class="word-break">I love every genre except for K-POP and JUSTIN BEIBER.</p>
+    <p class="word-break"> I love every genre except for K-POP and JUSTIN BEIBER.</p>
   </div>
 </div>
 <br>
