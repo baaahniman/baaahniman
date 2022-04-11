@@ -18,7 +18,7 @@
 }
 </style> -->
 <div align="center">
-<img src="https://img.icons8.com/external-bearicons-gradient-bearicons/64/000000/external-Hi-miscellany-texts-and-badges-bearicons-gradient-bearicons.png"/>
+<img src="https://img.icons8.com/external-bearicons-gradient-bearicons/96/000000/external-Hi-miscellany-texts-and-badges-bearicons-gradient-bearicons.png"/>
 
 </div>
 <h1 align="center">Hi I am Bahniman!</h1>
@@ -29,7 +29,7 @@
   </div> -->
   <!-- Robot Icon (machine learning) -->
   <div class="inline-block">
-    <img src="https://img.icons8.com/dusk/64/000000/laptop--v1.png"/>
+    <img src="https://img.icons8.com/dusk/96/000000/laptop--v1.png"/>
   </div>
   <h2>Full Stack Developer and Data Science <br>Enthusiast</h2> 
 </div>
@@ -37,7 +37,7 @@
   <h2 id="about-me" align="center">About Me</h2>
   <br>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_State_University_Logo.svg" alt="Georgia State University Logo.svg" height="380" width="488"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_State_University_Logo.svg" alt="Georgia State University Logo.svg" height="300" width="388"/>
     <br>
     <br>
     <p class="word-break">I am an Incoming Freshman at Georgia State University majoring in Computer Science and minor in Business Economics.</p>
