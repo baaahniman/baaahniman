@@ -34,7 +34,7 @@
   <h2>Full Stack Developer and Data Science <br>Enthusiast</h2> 
 </div>
 <div align=center>
-  <h2 id="about-me" align="center">About Me</h2>
+  <h1 id="about-me" align="center">About Me</h1>
   <br>
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_State_University_Logo.svg" alt="Georgia State University Logo.svg" height="300" width="388"/>
@@ -66,7 +66,7 @@
 <br>
 
 <div class="sections" id="check-out-socials" align="center">
-  <h2>My Socials!</h2>
+  <h1>My Socials</h1>
   <br>
   
   <a href="mailto:bahniman31@gmail.com">
@@ -115,7 +115,7 @@
   <br>
 
 <div class="sections" id="github-stats" align="center">
-    <h2>My GitHub Profile Statistics</h2>
+    <h1>My GitHub Profile Statistics</h1>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=baaahniman&show_icons=true&theme=darcula" />
