@@ -64,9 +64,9 @@
   </div>
 </div>
 <br>
-<h2 align="center">ALSO......</h2>
+
 <div class="sections" id="check-out-socials" align="center">
-  <h2>Connect on my socials!</h2>
+  <h2>My Socials!</h2>
   <br>
   
   <a href="mailto:bahniman31@gmail.com">
@@ -113,3 +113,15 @@
     <img src="https://img.icons8.com/color/96/000000/calendar--v2.png"/>
   </a>
   <br>
+
+<div class="sections" id="github-stats" align="center">
+    <h2>My GitHub Profile Statistics</h2>
+    <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=baaahniman&show_icons=true&theme=darcula" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baaahniman&layout=compact&theme=darcula" />
+    </a>
+    
+</div>
