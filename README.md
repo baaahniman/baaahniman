@@ -60,7 +60,7 @@
   </div>
   <div class="inline-block">
     <img src="https://img.icons8.com/color/80/000000/music--v2.png"/>
-    <p class="word-break"> I love every genre except for K-POP and JUSTIN BEIBER.</p>
+    <p class="word-break"> I love every genre of music except for K-POP and JUSTIN BEIBER!!!!</p>
   </div>
 </div>
 <br>
