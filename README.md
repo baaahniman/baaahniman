@@ -31,7 +31,7 @@
   <div class="inline-block">
     <img src="https://img.icons8.com/dusk/96/000000/laptop--v1.png"/>
   </div>
-  <h2>Full Stack Developer and Data Science <br>Enthusiast</h2> 
+  <h1>Full Stack Developer and Machine Learning <br>Enthusiast</h2> 
 </div>
 <div align=center>
   <h1 id="about-me" align="center">About Me</h1>
