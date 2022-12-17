@@ -40,7 +40,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_State_University_Logo.svg" alt="Georgia State University Logo.svg" height="300" width="388"/>
     <br>
     <br>
-    <p class="word-break">I am an Incoming Freshman at Georgia State University majoring in Computer Science and minor in Business Economics.</p>
+    <p class="word-break">I am an Incoming Freshman at Georgia State University majoring in Computer Science.</p>
   </div>
   <br>
   <br>
