@@ -20,7 +20,7 @@ I enjoy solving complex problems at the intersection of **technology, data, and 
 ---
 
 ## 🎓 Education
-- **B.B.S. in Computer Science and Data Science**, Georgia State University
+- **B.S. in Computer Science and Data Science**, Georgia State University
 - Honors College | Research Laureate | ACM Member  
 
 ---
